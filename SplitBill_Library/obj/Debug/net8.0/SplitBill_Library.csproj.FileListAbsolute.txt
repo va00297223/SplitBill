@@ -1,0 +1,11 @@
+D:\MAPD\Modular Development\Split_Bill\SplitBill_Library\bin\Debug\net8.0\SplitBill_Library.deps.json
+D:\MAPD\Modular Development\Split_Bill\SplitBill_Library\bin\Debug\net8.0\SplitBill_Library.dll
+D:\MAPD\Modular Development\Split_Bill\SplitBill_Library\bin\Debug\net8.0\SplitBill_Library.pdb
+D:\MAPD\Modular Development\Split_Bill\SplitBill_Library\obj\Debug\net8.0\SplitBill_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAPD\Modular Development\Split_Bill\SplitBill_Library\obj\Debug\net8.0\SplitBill_Library.AssemblyInfoInputs.cache
+D:\MAPD\Modular Development\Split_Bill\SplitBill_Library\obj\Debug\net8.0\SplitBill_Library.AssemblyInfo.cs
+D:\MAPD\Modular Development\Split_Bill\SplitBill_Library\obj\Debug\net8.0\SplitBill_Library.csproj.CoreCompileInputs.cache
+D:\MAPD\Modular Development\Split_Bill\SplitBill_Library\obj\Debug\net8.0\SplitBill_Library.dll
+D:\MAPD\Modular Development\Split_Bill\SplitBill_Library\obj\Debug\net8.0\refint\SplitBill_Library.dll
+D:\MAPD\Modular Development\Split_Bill\SplitBill_Library\obj\Debug\net8.0\SplitBill_Library.pdb
+D:\MAPD\Modular Development\Split_Bill\SplitBill_Library\obj\Debug\net8.0\ref\SplitBill_Library.dll
